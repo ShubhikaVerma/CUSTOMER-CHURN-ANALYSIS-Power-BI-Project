@@ -59,7 +59,6 @@ Note: Step 2- 4 are iterative as I had to repeat them as needed throughout this 
 Here, I explored the relationship between these tables and how they are connected. I also arranged them so that all the fact tables were at the top of the dimension table. This is to make visualisation easy. Power BI pre-detected the cardinality of the model relationship as many-to-one which is correct.
 
 ## Visualization — Report
-![CustomerChurn](https://github.com/ShubhikaVerma/CUSTOMER-CHURN-ANALYSIS-Power-BI-Project/assets/146738903/6522f9f9-6758-4db1-a80b-14d0c275a83e)
-
+![CustomerChurn](https://github.com/ShubhikaVerma/CUSTOMER-CHURN-ANALYSIS-Power-BI-Project/assets/146738903/30a1358a-0a21-45e8-9917-de6def1595d6)
 
 
